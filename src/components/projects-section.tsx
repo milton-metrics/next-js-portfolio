@@ -11,6 +11,8 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 // https://www.youtube.com/watch?v=DPPjgGPTIl8
 // - AI Chatbot
 // https://www.youtube.com/watch?v=KiWClrSVgfU&t=260s
+// - Serverside app
+// https://www.youtube.com/watch?v=FKZAXFjxlJI&t=59s
 
 // - Figma
 // https://www.youtube.com/watch?v=o1nCmiW6auE
